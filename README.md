@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="215" height="153" alt="image" src="https://github.com/user-attachments/assets/fb428dc9-af48-4c77-ad10-fdeeac068e9a" />
+
+
 <!--
 **RuddyMo/RuddyMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
